@@ -1,0 +1,16 @@
+# Ignore typical Windows directories if they appear in your project directory
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Backup/
+Code/
+Contacts/
+Desktop/
